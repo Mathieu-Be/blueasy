@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mathieu-be-blueasy.netlify.app/">
-    <img src="https://mathieu-be-blueasy.netlify.app/img/logo.svg" alt="Blueasy logo" width="200" height="165">
+    <img src="https://mathieu-be-blueasy.netlify.app/img/blueasy-black.svg" alt="Blueasy logo" width="200" height="165">
   </a>
 </p>
 
