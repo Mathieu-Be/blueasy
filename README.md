@@ -1,5 +1,5 @@
 <p align="center">
-  <a href=https://mathieubesson-blueasy.netlify.app/">
+  <a href="https://mathieubesson-blueasy.netlify.app/">
     <img src="https://mathieubesson-blueasy.netlify.app/img/blueasy-black.svg" alt="Blueasy logo" width="200" height="165">
   </a>
 </p>
